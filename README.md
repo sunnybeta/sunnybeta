@@ -8,7 +8,7 @@
 
 👯 Looking forward to building and contributing to open source projects 🏗️
 
-☕ Corporate Stack: C, FastAPI, Spring, Express, RabbitMQ, PostgreSQL, MongoDB, NextJS, Docker, Jenkins, Kubernetes, AWS ⛏️
+☕ Corporate Stack: Gin, FastAPI, Spring, Express, RabbitMQ, PostgreSQL, MongoDB, NextJS, Docker, Jenkins, Kubernetes, AWS ⛏️
 
 🔭 Building Liminal Minds 🚧
 
