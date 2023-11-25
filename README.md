@@ -1,4 +1,4 @@
-<img src="images/pandahi.gif">
+<img src="images/pandahi.gif" width=140 height=110>
 
 👋 こんにちは 🐼
 
