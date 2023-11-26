@@ -12,7 +12,7 @@
 
 🔭 Building Liminal Minds 🚧
 
-⚡ 2024: AI, RustLang 🐐
+⚡ 2024: Haskell, AI, Rust 🐐
 
 <img src="images/cuphead.gif">
 
