@@ -13,7 +13,7 @@
 👯 Looking forward to building and contributing to open source projects 🏗️<br>
 ☕ Corporate: Gin, FastAPI, Spring, Express, React Native, PostgreSQL, MongoDB, NextJS, Docker, Jenkins, Kubernetes, AWS ⛏️<br>
 🔭 Building Liminal Minds 🚧<br>
-⚡ 2024: Haskell, Rust, Solid, AI 🐐<br>
+⚡ 2024: Haskell, Rust, AI 🐐<br>
 </p>
 <p align="center">
 <a href="https://twitter.com/sunnybeta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunnybeta" height="30" width="40" /></a>
